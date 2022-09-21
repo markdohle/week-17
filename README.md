@@ -14,9 +14,15 @@ In Module 17: Working With React Components, you’ll focus on web components an
 9. Practice communicating technical decisions you made
 
 [Using Web Components In React](https://reactjs.org/docs/web-components.html)
+
 [A Guide To Custom Elements For React Developers](https://css-tricks.com/a-guide-to-custom-elements-for-react-developers/)
+
 [Wrapping React Components Inside Custom Elements](https://gilfink.medium.com/wrapping-react-components-inside-custom-elements-97431d1155bd)
+
 [GitHub: Custom Element To React](https://github.com/nrkno/custom-element-to-react)
+
 [How  to Use React-Router to Create a SPA](https://javascript.plainenglish.io/react-router-and-spas-made-easy-19fd1db0d6fc)
+
 [Single Page Application vs. Multi-page Application](https://medium.com/@NeotericEU/single-page-application-vs-multiple-page-application-2591588efe58)
-[Bootstrap](https://getbootstrap.com_
+
+[Bootstrap](https://getbootstrap.com)
